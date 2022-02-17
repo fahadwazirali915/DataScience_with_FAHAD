@@ -1,0 +1,57 @@
+Data Science Expertise: 
+
+
+
+1. Exploratory Data Analysis
+
+Feature Engineering
+
+Handling Missing values of categorical Feature.
+Handling Missing values of Numerical Feature.
+Numerical Features (Discrete and Continous ).
+Handling Outliers using Boxplot.
+Categorical Features.
+Encoding of categorical Features
+Feature Scaling
+
+Feature Selection
+
+2. Data Visualization
+
+3. Machine Learning Models
+
+4. Deep Learning Models
+
+5. NLP Models
+
+6. Sentiment Analysis
+
+7. Time Forecasting
+
+
+
+Machine Learning Expertise:
+
+
+
+Supervised Learning
+Classification problems
+Regression problems
+Unsupervised Learning
+Clustering
+Association
+PCA
+Visualization
+NLP
+Sentiment Analysis
+Bagging and Boosting Techniques
+Ensemble Techniques
+
+
+Deep Learning Expertise:
+
+ANN
+CNN
+RNN
+LSTM
+Bert
