@@ -1,20 +1,16 @@
 Data Science Expertise: 
 
-
-
 1. Exploratory Data Analysis
-
-Feature Engineering
-
 Handling Missing values of categorical Feature.
 Handling Missing values of Numerical Feature.
 Numerical Features (Discrete and Continous ).
 Handling Outliers using Boxplot.
 Categorical Features.
 Encoding of categorical Features
-Feature Scaling
 
+Feature Scaling
 Feature Selection
+Feature Engineering
 
 2. Data Visualization
 
@@ -30,10 +26,12 @@ Feature Selection
 
 
 
-Machine Learning Expertise:
 
 
 
+
+
+*** Machine Learning Expertise:
 Supervised Learning
 Classification problems
 Regression problems
@@ -48,8 +46,11 @@ Bagging and Boosting Techniques
 Ensemble Techniques
 
 
-Deep Learning Expertise:
 
+
+
+
+*** Deep Learning Expertise:
 ANN
 CNN
 RNN
